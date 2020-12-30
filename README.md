@@ -6,11 +6,11 @@ _You must have Python installed on your system._
 _Clone the repository and run the main function._
 ### Main function
 ```
-requestDataIp('45.231.169.89/29')
+requestDataIp('192.168.10.10/20')
 ```
 _Print the result in terminal._
 ```
-print(requestDataIp('45.231.169.89/29'))
+print(requestDataIp('192.168.10.10/20'))
 ```
 
 ### Result in JSON format
